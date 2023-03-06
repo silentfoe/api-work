@@ -57,6 +57,10 @@ app.get('/', (req,res) => {
     res.sendFile(__dirname + '/index.html')
 })
 
+app.get('/other', (req,res) => {
+    res.sendFile(__dirname + '/otherIndex.html')
+})
+
 app.get('/api/:name', (request, response) => {
     const name = request.params.name.toLowerCase()
     if(people[name]){
