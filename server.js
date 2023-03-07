@@ -13,43 +13,43 @@ const people = {
         'age': 29,
         'location': 'Michigan,USA',
         'city': 'Detroit',
-        'birthname': 'chris topher bean'
+        'birthName': 'chris topher bean'
     }, 
     'mom' : {
         'age': 75,
         'location': 'Ohio,USA',
         'city': 'Toledo',
-        'birthname': 'mama knows best'
+        'birthName': 'mama knows best'
     }, 
     'brother' : {
         'age': 39,
         'location': 'Michigan,USA',
         'city': 'Imlay City',
-        'birthname': 'the quiet one'
+        'birthName': 'the quiet one'
     },
     'uncle' : {
         'age': 54,
         'location': 'Indiana,USA',
         'city': 'Gary',
-        'birthname': 'what about guy'
+        'birthName': 'what about guy'
     }, 
     'aunt' : {
         'age': 65,
         'location': 'Florida,USA',
         'city': 'Miami',
-        'birthname': 'she may say'
+        'birthName': 'she may say'
     }, 
     'cousin' : {
         'age': 25,
         'location': 'California,USA',
         'city': 'San Diego',
-        'birthname': 'the surf kid'
+        'birthName': 'the surf kid'
     },  
     'other' : {
         'age': 'unknown',
         'location': 'unknown',
         'city': 'unknown',
-        'birthname': 'unknown'
+        'birthName': 'unknown'
     }, 
 }
 
