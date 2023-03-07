@@ -66,7 +66,7 @@ app.get('/api/:name', (request, response) => {
     if(people[name]){
         response.json(people[name])
     }else{
-        response.json(people['unknown'])
+        response.json(people['other'])
     }
 })
 
